@@ -15,7 +15,7 @@
 - Clean Code by Robert Cecil Martin
 - Talking to Strangers by Macolm Gladwell
 
-<h3 align="center">I am always looking for cool projects! Reach out to me via <a href="vsandru4@gmail.com">email</a> or <a href="https://www.linkedin.com/in/victor-sandru-713526199">LinkedIn</a></h3>
+<h3 align="center">I am always looking for cool projects! Reach out to me via <a href="mailto:vsandru4@gmail.com">email</a> or <a href="https://www.linkedin.com/in/victor-sandru-713526199">LinkedIn</a></h3>
 
 
 
