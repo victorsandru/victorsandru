@@ -11,11 +11,11 @@
 - [React](https://github.com/victorsandru/react-projects)
 - [C](https://github.com/victorsandru/practice-C)
 
-:book:I'm reading:
+:book:I'm currently reading:
 - Clean Code by Robert Cecil Martin
 - Talking to Strangers by Macolm Gladwell
 
-<h3 align="center">I am always looking for cool projects! Reach out to me via <a href="mailto:vsandru4@gmail.com">email</a> or <a href="https://www.linkedin.com/in/victor-sandru-713526199">LinkedIn</a></h3>
+<h3 align="center">Let's create something cool! Reach out to me via <a href="mailto:vsandru4@gmail.com">email</a> or <a href="https://www.linkedin.com/in/victor-sandru-713526199">LinkedIn</a></h3>
 
 
 
