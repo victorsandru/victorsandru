@@ -2,7 +2,7 @@
 <h3 align="center">Here are some things about me :fireworks:</h1>
 
 :construction_worker: I'm currently working on: 
-- Remaking my [website](https://victorsandru.com) with React.
+- Remaking my [website](https://victorsandru.com) with [React](https://github.com/victorsandru/personal-website-react).
 - Working with Carleton Computer Science Society friends on a financial web app named [Benji](https://github.com/victorsandru/Benji)!
 - Creating CI/CD pipelines for my personal projects using GitLabCI.
 
