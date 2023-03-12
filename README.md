@@ -1,6 +1,9 @@
 <h1 align="center">Hey there! I'm Victor Sandru :muscle:</h1>
 <h3 align="center">Check out some of my projects below</h1>
-
+<h4 align="center"><a href="https://github.com/HacktheHill">Hack The Hill</a></h4>
+<h4 align="center"><a href="https://github.com/jpanza08/2401Final">Phasmaphobia Simulator</a></h4>
+<h4 align="center"><a href="https://github.com/victorsandru/PixelCheck">Pixel Check</a></h4>
+<h4 align="center"><a href="https://github.com/victorsandru/Benji">Benji</a></h4>
 
 <h3 align="center">Reach out to me via <a href="https://www.linkedin.com/in/victor-sandru-713526199">LinkedIn</a></h3>
 
